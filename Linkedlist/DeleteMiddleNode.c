@@ -47,7 +47,7 @@ void Create()
 void DeleteMiddleNode(struct Node *p)
 {
     struct Node *q = head, *temp;
-    while (p && p->next != NULL)
+    while (p && p->next)
     {
         temp = q; //Tail pointer to q, i.e middle.
         q = q->next;
