@@ -1,2 +1,2 @@
 # C-programs
-All Basic Data structure and Algorithms programs using C
+All the Basic Data structures and Algorithms used in the programs using C language .
