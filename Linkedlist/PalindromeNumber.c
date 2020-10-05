@@ -1,18 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+
 struct Node
 {
     int data;
     struct Node *next;
 };
 
-void Create(struct Node **head)
+void NumReverse(int *num)
 {
-    int num = 0, digit = 0, rev = 0;
+    int d = 0, rev = 0;
+    while (*num)
+    {
+        d = *num % 10;
+        rev = rev * 10 + d;
+        *num = *num / 10;
+    }
+    *num = rev;
+    return;
+}
+void Create(struct Node **head, int num)
+{
+    int digit = 0, rev = 0;
     struct Node *newnode = NULL, *p = *head;
-    printf("Enter the Number : ");
-    scanf("%d", &num);
     int temp = num;
     while (temp)
     {
@@ -31,6 +41,7 @@ void Create(struct Node **head)
             p = newnode;
         }
     }
+
     return;
 }
 int checkPalindrome(struct Node *h1, struct Node *h2)
@@ -54,8 +65,12 @@ int checkPalindrome(struct Node *h1, struct Node *h2)
 int main()
 {
     struct Node *num1 = NULL, *num2 = NULL;
-    Create(&num1);
-    Create(&num2);
+    int n1;
+    printf("Enter the Number : ");
+    scanf("%d", &n1);
+    Create(&num1, n1);
+    NumReverse(&n1);
+    Create(&num2, n1);
     int res = checkPalindrome(num1, num2);
     if (res)
     {
