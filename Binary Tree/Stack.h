@@ -59,31 +59,3 @@ struct Node *pop(struct Stack *s)
     }
 }
 #endif
-// void PostOrder(struct Node *t)
-// {
-//     struct Stack st3;
-//     Initialize(&st3, 20);
-//     long int temp;
-//     while (temp || !isEmpty(&st3))
-//     {
-//         if (temp)
-//         {
-//             push(&st3, t);
-//             t = t->left;
-//         }
-//         else
-//         {
-//             temp = (long int)pop(&st3);
-//             if (temp > 0)
-//             {
-//                 push(&st3, -temp);
-//                 t = ((struct Node *)temp)->right;
-//             }
-//             else
-//             {
-//                 printf("%d, ", ((struct Node *)temp)->data);
-//                 t = NULL;
-//             }
-//         }
-//     }
-// }
