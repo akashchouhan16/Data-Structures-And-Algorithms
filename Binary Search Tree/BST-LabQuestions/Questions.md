@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## Basic Lab Questions on Binary Search Tree
-=======
-## Basic Questions on Binary Search Tree
->>>>>>> 73e6db85a16be7ec4d9c22487c333fc7a8578b90
 
 ---
 
