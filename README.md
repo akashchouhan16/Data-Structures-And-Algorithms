@@ -13,3 +13,4 @@ Few very basic Data structure and Algorithm questions implemented mostly using *
 - [LabQ](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/ExtraDSAQ)
 - [Graphs](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Graphs)
 - [Queue](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Queue)
+- [Sorting Algos](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/SortingAlgorithms)
