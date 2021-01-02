@@ -1,6 +1,8 @@
-# Basic-Data-structures-in-C
+## <code><img src = "./datastructureicon.png" width="70px" ></code>
 
-Few very basic Data structure and Algorithm questions implemented mostly using **C language**.
+## **Basic-Data-structures-in-C-and-C++**
+
+Few basic Data structure and Algorithm questions implemented using **C and Cplusplus**.
 
 ## Topics
 
