@@ -1,4 +1,4 @@
-## <code><img src = "./datastructureicon.png" width="70px" ></code>
+## <code><img src = "./datastructureIcon.png" width="70px" ></code>
 
 ## **Basic-Data-structures-in-C-and-C++**
 
