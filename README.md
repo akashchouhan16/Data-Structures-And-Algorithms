@@ -18,3 +18,4 @@ Few basic Data structure and Algorithm questions implemented using **C and Cplus
 - [Searching](https://github.com/akashchouhan16/Basic-Data-structures-in-C-CPP/tree/master/Searching)
 - [Sorting Algos](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/SortingAlgorithms)
 - [Stack](https://github.com/akashchouhan16/Data-structures-in-C-CPP/tree/master/Stack)
+- [Utility](https://github.com/akashchouhan16/Data-structures-in-C-CPP/tree/master/Utility)
