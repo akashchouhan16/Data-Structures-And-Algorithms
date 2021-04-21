@@ -5,8 +5,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity "Repo Maintained")
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/akashchouhan16/ "github.com/akashchouhan16")
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/ "VSCODE")
-[![GitHub issues](https://img.shields.io/github/issues/akashchouhan16/Crypto-Dash.svg)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/issues)
-[![GitHub stars](https://img.shields.io/github/stars/akashchouhan16/Data-structures-in-C-CPP.svg?style=social)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/stargazers)[![GitHub forks](https://img.shields.io/github/forks/akashchouhan16/Data-structures-in-C-CPP.svg?style=social)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/network) ![GitHub last commit](https://img.shields.io/github/last-commit/akashchouhan16/Data-structures-in-C-CPP.svg)
+[![GitHub issues](https://img.shields.io/github/issues/akashchouhan16/Crypto-Dash.svg)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/issues)[![GitHub stars](https://img.shields.io/github/stars/akashchouhan16/Data-structures-in-C-CPP.svg?style=social)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/stargazers)[![GitHub forks](https://img.shields.io/github/forks/akashchouhan16/Data-structures-in-C-CPP.svg?style=social)](https://github.com/akashchouhan16/Data-structures-in-C-CPP/network)
+![GitHub last commit](https://img.shields.io/github/last-commit/akashchouhan16/Data-structures-in-C-CPP.svg)
 
 Data structure and Algorithm questions implemented using **C and Cplusplus**.
 
