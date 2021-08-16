@@ -36,26 +36,32 @@ inline void IOS()
 
 void Solve(vi &array, int n, int &min, int &max)
 {
-    sort(array.begin(), array.end());
+    sort(all(array));
     int tempMax = 0, tempMin = 0;
-    // Computing Max value difference :
-    for (int i = n - 1; i >= n / 2; i--)
-        tempMax += (array[i]);
-
-    for (int i = 0; i < n / 2; i++)
-        tempMin += array[i];
-    max = (tempMax - tempMin);
-    // Computing Min value difference :
-    tempMax = 0, tempMin = 0; //reset
-    loop(i, n)
+    loop(i, n / 2)
     {
-        (i & 1) ? (tempMax += array[i]) : (tempMin += array[i]);
+        max += (array[i + n / 2] - array[i]);
+        min += (array[2 * i + 1] - array[2 * i]);
     }
-    min = abs(tempMax - tempMin);
+    return;
+
+    // for (int i = n - 1; i >= n / 2; i--)
+    //     tempMax += (array[i]);
+    // for (int i = 0; i < n / 2; i++)
+    //     tempMin += array[i];
+    // max = (tempMax - tempMin);
+
+    // tempMax = 0, tempMin = 0; //reset
+    // loop(i, n)
+    // {
+    //     (i & 1) ? (tempMax += array[i]) : (tempMin += array[i]);
+    // }
+    // min = abs(tempMax - tempMin);
     return;
 }
 int main()
 {
+    IOS();
     tests(t)
     {
         int n;
@@ -67,7 +73,7 @@ int main()
             cin >> x;
             array.pb(x);
         }
-        int min = INT_MAX, max = INT_MIN;
+        int min = 0, max = 0;
         Solve(array, n, min, max);
         cout << "Min = " << min << "\nMax = " << max << endl;
     }
