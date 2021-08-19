@@ -5,7 +5,7 @@ Sample Test cases :
 ip1 : W = 20, items{values ={40 24 30 21}, weight={5,4,6,7,6}}      op1 : (40+24+30+15) = 109 ANS
       
 ip-op2 :
-INPUT ORDER : (W)capacity of sack | No Of Items (n) | (<values,weight> of n items)
+INPUT ORDER : (W)capacity of sack | No Of Items (n) | (<value,weight> of n items)
 50 3
 60 10
 100 20
