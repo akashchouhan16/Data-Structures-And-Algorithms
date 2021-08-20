@@ -10,17 +10,21 @@
 
 Data structure and Algorithm questions implemented using **C and Cplusplus**.
 
-## Topics
+<img src="./assets/DSA_Topics.png" width="60px" style="float:left; padding:.35rem"/>
+
+## Concepts
 
 ---
 
 - [Arrays](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Arrays "View sub-directory")
+- [Binary Search Tree](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Binary%20Search%20Tree "View sub-directory")
 - [Binary Tree](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Binary%20Tree "View sub-directory")
-- [BST](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Binary%20Search%20Tree "View sub-directory")
+- [Dynamic Programming](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/DynamicProgramming "View sub-directory")
 - [Graphs](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Graphs "View sub-directory")
-- [Implementation](https://github.com/akashchouhan16/Data-structures-in-C-CPP/tree/master/Implementations "View sub-directory")
+- [Greedy](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Greedy "View sub-directory")
+- [Implementation Based](https://github.com/akashchouhan16/Data-structures-in-C-CPP/tree/master/Implementations "View sub-directory")
 
-- [LabQ](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/ExtraDSAQ "View sub-directory")
+- [Semester LabQ](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/ExtraDSAQ "View sub-directory")
 - [Linked List](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Linkedlist "View sub-directory")
 - [Queue](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Queue "View sub-directory")
 - [Searching](https://github.com/akashchouhan16/Basic-Data-structures-in-C-CPP/tree/master/Searching "View sub-directory")
