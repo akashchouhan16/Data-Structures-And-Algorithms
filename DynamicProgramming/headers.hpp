@@ -19,6 +19,10 @@
 using namespace std;
 
 template <typename T>
+inline T max(T &a, T &b) { return (a > b) ? a : b; }
+template <typename T>
+inline T min(T &a, T &b) { return (a > b) ? b : a; }
+template <typename T>
 T GCD(T a, T b)
 {
     if (b == 0)

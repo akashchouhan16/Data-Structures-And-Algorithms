@@ -7,7 +7,7 @@ Approach In Short : WE do not need to compute S2 subset sum if we have the sum o
 If one Subset sums up to S1, then the other subset will be (Range - S1). Hence, we have reduced the problem to a single variable -> we need to minimized |S2-S1| => |(Range-S1) - S1| => |Range - 2*S1|
 
 {Note : The max possible sum from a subset will the sum of all the array elements, and the min possible subset sum will always be 0 in case of empty set {}.}
-* We utilize the isSubsetSum() problem to output us with all the permissable sum values that the subset S1 can have,
+* We utilize the isSubsetSum() problem to output us with all the permissible sum values that the subset S1 can have,
 and then we simply need to output the min of all the (Range - 2*S1) from the driver method. 
 Sample Test Case : 
 2
@@ -43,7 +43,7 @@ vector<bool> isSubsetSum(vi &arr, int Range, int n)
             }
         }
     }
-    // Copy the last row of permissable subsetSum values :
+    // Copy the last row of permissible subsetSum values :
     for (int i = 0; i <= (Range + 1) / 2; i++)
     {
         allowedValues[i] = dp[n][i];
