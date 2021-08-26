@@ -56,4 +56,5 @@ int main()
         output.pb(LPS(s, n));
     }
     loop(i, output.size()) cout << "case #" << i + 1 << " : " << output[i] << endl;
+    return 0;
 }
