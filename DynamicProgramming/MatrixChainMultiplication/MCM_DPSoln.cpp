@@ -44,7 +44,7 @@ int main()
         {
             dp[i] = new int[n + 1];
         }
-        // memset(dp, -1, sizeof(dp)); did not work on system compiler, hence manually assigned -1 to dp[][].
+        // memset(dp, -1, sizeof(dp)); ->Not supported in some system compilers. Therefore, manually assigned -1.
         loop(i, n + 1)
         {
             loop(j, n + 1)
