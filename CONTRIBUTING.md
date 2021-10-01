@@ -22,7 +22,7 @@ Here are a few points to keep in mind before making a pull request to this repos
 6. If the `PR` contains multiple source codes, it must list down the question title in the comment section while making the `PR`.
 
 For Reference :
-**To add 4 stack based solutions in a single pull eequest, the `PR` may contain a pull request comment as follows**
+**To add 4 stack based solutions in a single pull request, the `PR` may contain a pull request comment as follows**
 
 ```
 Stack Based Problems

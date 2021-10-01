@@ -60,4 +60,4 @@ Happy Coding! :)
 
 **[GNU GENERAL PUBLIC LICENSE](https://github.com/akashchouhan16/Data-structures-in-C-CPP/blob/master/LICENSE "License")**
 
-**Maintainer : [ Akash Chouhan](https://github.com/akashchouhan16/, "Akash Chouhan Profile")**
+**Maintainer : [ Akash Chouhan](https://github.com/akashchouhan16/ "Akash Chouhan Profile")**
