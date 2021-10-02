@@ -9,6 +9,7 @@ Note that after each of the operations, the string a or b may become empty.
 
 For example, if a="hello" and b="icpc", then you can apply the following sequence of operations:
 
+
 delete the first character of the string a ⇒ a="ello" and b="icpc";
 delete the first character of the string b ⇒ a="ello" and b="cpc";
 delete the first character of the string b ⇒ a="ello" and b="pc";
@@ -64,7 +65,7 @@ void solve()
 }
 int32_t main()
 {
- 
+
 	c_a_j();
 	int t;cin>>t;
   for(int i=0;i<t;i++)
