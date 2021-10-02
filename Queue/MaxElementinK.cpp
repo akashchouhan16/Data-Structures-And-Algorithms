@@ -1,9 +1,11 @@
 /*
 Problem  Statement : Given an array of n elements, find the maximum element in the array in every window of size k.
+
 SAMPLE TEST CASE : 
 I/P : 
 5 3
 5 2 4 1 6
+
 O/P:
 5 4 6
 */
