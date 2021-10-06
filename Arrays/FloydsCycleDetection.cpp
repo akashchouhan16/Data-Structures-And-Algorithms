@@ -1,5 +1,6 @@
 // Given an array of size n+1, all the elements are in range of [1,n].It is guaranteed that all the elements appear either once or may not appear at all, but there exists one element that appears more than once.
-
+// Test case-1: array = [1,1,4,2,3] output:1
+//test case-2: array = [2,2,2] output:2
 #include<iostream>
 #include<vector>
 using namespace std;
