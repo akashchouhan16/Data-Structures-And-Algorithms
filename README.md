@@ -14,11 +14,12 @@ Happy Coding! :)
 
 <img src="./assets/DSA_Topics.png" width="60px" style="float:left; padding:.35rem"/>
 
-## Concepts
+## Sub Directories
 
 ---
 
 - [Arrays](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Arrays "View sub-directory")
+- [Backtracking](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Backtracking "View sub-directory")
 - [Binary Search Tree](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Binary%20Search%20Tree "View sub-directory")
 - [Binary Tree](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Binary%20Tree "View sub-directory")
 - [Dynamic Programming](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/DynamicProgramming "View sub-directory")
@@ -53,10 +54,9 @@ Happy Coding! :)
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![badge](./assets/powered-by-enthusiasm.svg)](https://forthebadge.com) <img src="./assets/hacktober-fest-2021.svg">
-
+[![badge](./assets/powered-by-enthusiasm.svg)](https://forthebadge.com)
 ## License
+**Maintainer : [ Akash Chouhan](https://github.com/akashchouhan16/ "Akash Chouhan Profile")** </br>
+All rights reserved. Released under the **[GNU GENERAL PUBLIC LICENSE](https://github.com/akashchouhan16/Data-structures-in-C-CPP/blob/master/LICENSE "License")**
 
-**[GNU GENERAL PUBLIC LICENSE](https://github.com/akashchouhan16/Data-structures-in-C-CPP/blob/master/LICENSE "License")**
 
-**Maintainer : [ Akash Chouhan](https://github.com/akashchouhan16/ "Akash Chouhan Profile")**
