@@ -1,5 +1,11 @@
-a.exe
+# unwanted executible files
+*/a.exe
+*/*/a.exe
+*/.vscode
+*/*/.vscode
 Linkedlist/a.exe
 SortingAlgorithm/a.exe
+
+
 Searching/NextAlphabet.cpp
 Searching/classBased_1.cpp
