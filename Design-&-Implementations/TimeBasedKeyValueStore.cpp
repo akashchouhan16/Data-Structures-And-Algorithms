@@ -4,8 +4,8 @@ Problem Statement: Design a time-based key-value data structure that can store m
 Sample LC Input: ["TimeMap","set","get","get","set","get","get"]
 [[],["foo","bar",1],["foo",1],["foo",3],["foo","bar2",4],["foo",4],["foo",5]]
 
-Sample LC Output:
-
+Sample LC Output: [null,null,"bar","bar",null,"bar2","bar2"]
+Exceptable Output: bar bar bar2 bar2
 */
 #include <bits/stdc++.h>
 #include <algorithm>
