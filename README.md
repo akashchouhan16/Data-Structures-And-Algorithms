@@ -1,6 +1,6 @@
-## <code><img src = "https://user-images.githubusercontent.com/56465610/215420256-c36bb5a2-313e-4bc6-b839-323e354634e1.png" width="70px" ></code>
+## <code><img src = "https://user-images.githubusercontent.com/56465610/215420613-bd57703b-8318-4ab8-9327-58be787c4b33.png" width="70px" ></code>
 
-## **Data Structures & Algorithms [C-and-C++]**
+## **Data Structures & Algorithms [C & C++]**
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity "Repo Maintained")
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/akashchouhan16/ "github.com/akashchouhan16")
@@ -12,11 +12,10 @@ A consolidated list of DSA problems from university coursework and more.
 Questions implemented using **C and C++**. All Genuine PRs are welcomed! Read `CONTRIBUTING.md` to contribute to this repository. <br/>
 Happy Coding! :)
 
-<img src="./assets/DSA_Topics.png" width="60px" style="float:left; padding:.35rem"/>
-
-## Sub Directories
-
 ---
+
+## :book: Sub Directories
+
 
 - [Arrays](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Arrays "View sub-directory")
 - [Backtracking](https://github.com/akashchouhan16/Basic-Data-structures-in-C/tree/master/Backtracking "View sub-directory")
@@ -55,7 +54,8 @@ Happy Coding! :)
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![badge](./assets/powered-by-enthusiasm.svg)](https://forthebadge.com)
+[![badge](https://user-images.githubusercontent.com/56465610/215421261-00402437-824c-43c9-8249-a0a3c5eaf9a0.svg)](https://forthebadge.com)
+
 ## License
 **Maintainer : [ Akash Chouhan](https://github.com/akashchouhan16/ "Akash Chouhan Profile")** </br>
 All rights reserved. Released under the **[GNU GENERAL PUBLIC LICENSE](https://github.com/akashchouhan16/Data-structures-in-C-CPP/blob/master/LICENSE "License")**
