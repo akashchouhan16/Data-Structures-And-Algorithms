@@ -1,4 +1,4 @@
-## <code><img src = "./datastructureIcon.png" width="70px" ></code>
+## <code><img src = "https://user-images.githubusercontent.com/56465610/215420256-c36bb5a2-313e-4bc6-b839-323e354634e1.png" width="70px" ></code>
 
 ## **Data Structures & Algorithms [C-and-C++]**
 
